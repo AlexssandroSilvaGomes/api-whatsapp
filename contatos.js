@@ -219,7 +219,7 @@ const contatos = { "whats-users" :
                                           {
                                             "name": "José Maria da Silva",
                                             "description": "Developer",
-                                            "image": "img/contact10.png",
+                                            "image": "img/contact8.jpg",
                                             "messages": [
                                               {
                                                 "sender": "me",
@@ -246,7 +246,7 @@ const contatos = { "whats-users" :
                                           {
                                             "name": "John Guttemberg",
                                             "description": "Free",
-                                            "image": "img/contact20.png",
+                                            "image": "img/contact9.jpg",
                                             "messages": [
                                               {
                                                 "sender": "me",
@@ -273,7 +273,7 @@ const contatos = { "whats-users" :
                                           {
                                             "name": "George Mikael",
                                             "description": "Backend Developer",
-                                            "image": "img/contact30.png",
+                                            "image": "img/contact12.jpg",
                                             "messages": [
                                               {
                                                 "sender": "me",

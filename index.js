@@ -88,5 +88,6 @@ app.get('/V1/whatsapp/perfil/numero/:tel', cors(), async (request, response, nex
 //roda o serviço da API par aficar aguardando requisições
 app.listen(8080, () => {
     console.log('servidor aguardando requisões na porta 8080')
+    
 })
 
